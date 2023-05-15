@@ -46,9 +46,9 @@ To run the notebook and reproduce the analysis, you will need the following pack
 
 You can install these packages using pip:
 
-```
+`
 pip install pandas numpy matplotlib seaborn
-```
+`
 
 ## Usage
 
